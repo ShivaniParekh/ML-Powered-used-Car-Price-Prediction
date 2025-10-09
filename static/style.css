@@ -1,0 +1,70 @@
+
+        body {
+            background-color: #0D1117;
+            text-align: center;
+            padding: 0px;
+            color: #E6E6E6;
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .text-light {
+            color: #E6E6E6;
+                }
+
+        #fuel, #research, #resea ,#sub {
+            width: 170px;
+            height: 35px;
+            background-color: #00AEEF;
+            text-align: center;
+            color: #FFFFFF;
+            cursor: pointer;
+            border-radius: 14px;
+            font-size: 20px;
+            font-weight: 600;
+        }
+        
+        
+        #fuel:hover, #research:hover, #resea:hover {
+            background-color: #0091D5;
+            box-shadow: 0 0 15px rgba(0, 174, 239, 0.5);
+        }
+        #sub {
+            width: 275px;
+            height: 45px;
+            
+        }
+
+        #sub:hover {
+            background-color: #009F7F; /* teal for submission */
+            box-shadow: 0 0 15px rgba(0, 255, 200, 0.5);
+        }
+        
+
+        #first , #second , #third, #fourth{
+            width: 170px;
+            height: 30px;
+            border-radius: 14px;
+            font-size: 20px;
+            text-align: center;
+        }
+
+
+        h1, h2 {
+        color: #00AEEF;
+        text-shadow: 0 0 10px rgba(0, 174, 239, 0.6);
+        font-size: 30px;
+            }
+
+
+        #prediction-result {
+                background-color: rgba(0, 174, 239, 0.1);
+                border: 1px solid #00AEEF;
+                border-radius: 12px;
+                padding: 15px;
+                margin-top: 30px;
+                color: #00FFD1;
+                font-size: 22px;
+                font-weight: 600;
+                box-shadow: 0 0 10px rgba(0, 174, 239, 0.3);
+            }
