@@ -29,7 +29,7 @@ A **Machine Learning-powered web application** that predicts the **selling price
 
 ## 📂 Folder Structure
 ```text
-CARPRICEPREDICTION/
+ML-Powered-used-Car-Price-Prediction/
 ├── app.py # Flask backend
 ├── templates/
 │ └── index.html # Frontend HTML template
