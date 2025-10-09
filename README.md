@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Prediction Web App
+# 🚗 ML-Powered used Car Price Prediction Web App 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![Flask](https://img.shields.io/badge/Flask-2.3.2-orange) ![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
