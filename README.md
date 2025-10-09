@@ -18,17 +18,17 @@ A **Machine Learning-powered web application** that predicts the **selling price
 
 ## 🛠 Tech Stack
 
-| Layer         | Technology |
-|---------------|------------|
-| Backend       | Python, Flask |
-| Frontend      | HTML, CSS |
+| Layer            | Technology                  |
+|------------------|-----------------------------|
+| Backend          | Python, Flask               |
+| Frontend         | HTML, CSS                   |
 | Machine Learning | Scikit-learn / Pickle model |
-| Deployment    | Local / Heroku / AWS |
+| Deployment       | Render                      |
 
 ---
 
 ## 📂 Folder Structure
-
+```text
 CARPRICEPREDICTION/
 ├── app.py # Flask backend
 ├── templates/
@@ -42,6 +42,7 @@ CARPRICEPREDICTION/
 │ └── random_forest_regression_model.pkl # Pre-trained ML model
 ├── requirements.txt # Python dependencies
 └── README.md
+```
 
 ### 🎯 Usage
 
