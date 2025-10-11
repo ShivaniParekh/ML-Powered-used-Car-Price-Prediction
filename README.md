@@ -1,6 +1,6 @@
 # 🚗 ML-Powered used Car Price Prediction Web App 
 
-![Python](https://img.shields.io/badge/Python-3.11-blue) ![Flask](https://img.shields.io/badge/Flask-2.3.2-orange) ![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.10.12-blue) ![Flask](https://img.shields.io/badge/Flask-3.0.3-orange) ![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
 A **Machine Learning-powered web application** that predicts the **selling price of used cars**. Users can input car details such as year, showroom price, kilometers driven, ownership, fuel type, seller type, and transmission to get an instant prediction.
 
