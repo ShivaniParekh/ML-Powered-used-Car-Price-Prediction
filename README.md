@@ -4,6 +4,10 @@
 
 A **Machine Learning-powered web application** that predicts the **selling price of used cars**. Users can input car details such as year, showroom price, kilometers driven, ownership, fuel type, seller type, and transmission to get an instant prediction.
 
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20App-Visit%20Now-blue?style=for-the-badge&logo=google-chrome)](https://carpriceprediction-t07l.onrender.com)
+
 ---
 
 ## 🌟 Features
@@ -58,4 +62,6 @@ ML-Powered-used-Car-Price-Prediction/
 2. Click the **`Calculate the Selling Price`** button.
 
 3. Your predicted price will appear below the form in a highlighted box.
+
+
 
